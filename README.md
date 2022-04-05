@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @B-Salov
+- 👀 I’m interested in Web3, Blockchain
+- 🌱 I’m currently learning Python and Solidity
+- 📫 How to reach me by Telegram: @enjion
